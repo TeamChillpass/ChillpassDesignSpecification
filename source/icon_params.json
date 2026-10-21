@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "reference": {
+    "width": 1280,
+    "height": 1280
+  },
+  "final": {
+    "width": 1024,
+    "height": 1024,
+    "dpi": 72
+  },
+  "mapping": {
+    "scale": 0.9752380952380952,
+    "source_center": [
+      640.0,
+      639.5
+    ],
+    "destination_center": [
+      512.0,
+      512.0
+    ]
+  },
+  "mark_color": "#000000",
+  "clean_background": "#FFFFFF",
+  "white_base": {
+    "size": 1024,
+    "exponent": 5.9,
+    "segments": 160
+  },
+  "C": {
+    "cx": 587.0,
+    "cy": 519.5,
+    "r_outer": 205.9,
+    "r_inner": 143.4,
+    "outer_top_deg": -54.0,
+    "inner_top_deg": -55.5,
+    "bottom_deg": 60.0
+  },
+  "P": {
+    "cx": 740.75,
+    "cy": 578.0,
+    "r_outer": 135.25,
+    "r_inner": 73.0,
+    "terminal_x": 723.0,
+    "topbar_left": 650.0
+  },
+  "stem": {
+    "left": 632.5,
+    "right": 690.0,
+    "top": 443.0,
+    "bottom_center": 977.5,
+    "bottom_radius": 28.75,
+    "top_left_radius": 8.0
+  },
+  "teeth": {
+    "upper": {
+      "left": 632.5,
+      "right": 781.0,
+      "top": 845.5,
+      "bottom": 886.5,
+      "tl": 0.0,
+      "tr": 4.0,
+      "br": 20.0,
+      "bl": 0.0
+    },
+    "web": {
+      "left": 632.5,
+      "right": 711.5,
+      "top": 885.5,
+      "bottom": 915.5,
+      "tl": 0.0,
+      "tr": 4.0,
+      "br": 4.0,
+      "bl": 0.0
+    },
+    "lower": {
+      "left": 632.5,
+      "right": 780.0,
+      "top": 914.5,
+      "bottom": 956.5,
+      "tl": 0.0,
+      "tr": 4.0,
+      "br": 18.0,
+      "bl": 0.0
+    }
+  }
+}
