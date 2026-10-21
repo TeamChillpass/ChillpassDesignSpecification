@@ -1,13 +1,15 @@
 # Chillpass Design Specification
 
-本仓库收录 Chillpass 品牌视觉资产、设计规范及其参数化生成源文件。
+本仓库收录 Chillpass 品牌视觉资产、设计规范、团队头像与活动物料。
 
 ## 仓库结构
 
 ```text
 ChillpassDesignSpecification/
 ├── icon/
-└── textLogo/
+├── textLogo/
+├── 头像/
+└── 首次公测海报/
 ```
 
 ## 资产导航
@@ -35,3 +37,19 @@ ChillpassDesignSpecification/
 - `textLogo/source/`：Photoshop 构建脚本与排版参数
 
 文字标使用 **Montserrat Bold**，画布 2400×900 px，字号 390 px，字距 -10。文字已转换为可编辑矢量形状。Montserrat 采用 SIL Open Font License 1.1，可用于商业项目；完整授权文本见 `textLogo/Montserrat-OFL-1.1.txt`。
+
+### 团队头像
+
+- `头像/CAI.jpg` / `头像/CAI.psd`：1280×1280
+- `头像/CHEN.jpg` / `头像/CHEN.psd`：1296×1296
+- `头像/YANG.jpg` / `头像/YANG.psd`：1280×1280
+
+三位团队成员的手绘头像，提供正方形 JPG 预览图和 Photoshop 分层源文件。
+
+### 首次公测海报
+
+- `首次公测海报/首次公测海报.png` / `.psd`：5166×6917，首轮公测招募主海报
+- `首次公测海报/二维码.jpg` / `二维码-1.psd`：916×916，配套二维码素材
+- `首次公测海报/配图.jpg` / `配图-1.psd`：1279×1706，配套插画素材
+
+首轮公测宣传物料，包含主海报、二维码和配图的发布图与分层源文件。
