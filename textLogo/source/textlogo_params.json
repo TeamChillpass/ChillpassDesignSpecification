@@ -1,0 +1,33 @@
+{
+  "asset": "Chillpass text logo",
+  "word": "chillpass",
+  "font": {
+    "family": "Montserrat",
+    "style": "Bold",
+    "postscript_name": "Montserrat-Bold",
+    "weight": 700,
+    "license": "SIL Open Font License 1.1",
+    "license_file": "../Montserrat-OFL-1.1.txt"
+  },
+  "canvas": {
+    "width": 2400,
+    "height": 900,
+    "resolution_dpi": 72
+  },
+  "layout": {
+    "font_size_px": 390,
+    "tracking": -10,
+    "target_center_px": [1200, 439.3],
+    "ink_bounds_px": [343, 250, 2057, 629]
+  },
+  "colors": {
+    "wordmark": "#000000",
+    "white_background": "#FFFFFF"
+  },
+  "outputs": {
+    "white_psd": "Chillpass_TextLogo_White_2400x900.psd",
+    "white_png": "Chillpass_TextLogo_White_2400x900.png",
+    "transparent_psd": "Chillpass_TextLogo_Transparent_2400x900.psd",
+    "transparent_png": "Chillpass_TextLogo_Transparent_2400x900.png"
+  }
+}
