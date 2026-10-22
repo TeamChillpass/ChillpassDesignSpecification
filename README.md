@@ -8,8 +8,10 @@
 ChillpassDesignSpecification/
 ├── icon/
 ├── textLogo/
+├── Logo/
 ├── 头像/
-└── 首次公测海报/
+├── 首次公测海报/
+└── 海报制作说明.md
 ```
 
 ## 资产导航
@@ -38,6 +40,15 @@ ChillpassDesignSpecification/
 
 文字标使用 **Montserrat Bold**，画布 2400×900 px，字号 390 px，字距 -10。文字已转换为可编辑矢量形状。Montserrat 采用 SIL Open Font License 1.1，可用于商业项目；完整授权文本见 `textLogo/Montserrat-OFL-1.1.txt`。
 
+### 组合 Logo
+
+- `Logo/Chillpass_Logo_White_2576x988.png`：白底版，RGB
+- `Logo/Chillpass_Logo_White_2576x988.psd`：白底分层源文件
+- `Logo/Chillpass_Logo_Transparent_2576x988.png`：透明背景版，RGBA
+- `Logo/Chillpass_Logo_Transparent_2576x988.psd`：透明分层源文件
+
+图标与文字标的组合标，画布 2576×988 px，sRGB、8 位/通道，标志颜色 `#000000`。构图取自首次公测海报，图标与文字均为可编辑矢量形状层。
+
 ### 团队头像
 
 - `头像/CAI.jpg` / `头像/CAI.psd`：1280×1280
@@ -52,4 +63,4 @@ ChillpassDesignSpecification/
 - `首次公测海报/二维码.jpg` / `二维码-1.psd`：916×916，配套二维码素材
 - `首次公测海报/配图.jpg` / `配图-1.psd`：1279×1706，配套插画素材
 
-首轮公测宣传物料，包含主海报、二维码和配图的发布图与分层源文件。
+首轮公测宣传物料，包含主海报、二维码和配图的发布图与分层源文件。海报尺寸规范见 [海报制作说明.md](海报制作说明.md)：网络平台发布使用 3:4 比例，印刷使用 A2 规格。
